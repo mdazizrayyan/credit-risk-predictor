@@ -1,4 +1,3 @@
- Credit risk prediction using Logistic Regression with SHAP explainability, deployed on Hugging Face Spaces
 # Credit Risk Predictor
 
 A machine learning system that predicts whether a loan applicant is a credit risk (likely to default), built on the UCI German Credit dataset.
